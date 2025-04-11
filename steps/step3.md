@@ -28,4 +28,4 @@ Custom fields allow you to track information specific to design workflows. The f
 
 ### ⏳ Waiting for you to add design-specific custom fields...
 
-<!-- STEP: 2 -->
+<!-- STEP: 3 -->

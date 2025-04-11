@@ -36,5 +36,5 @@ jobs:
           if [ "${{ env.CURRENT_STEP }}" -lt "4" ]; then
             echo "You need to complete previous steps first. Current step is ${{ env.CURRENT_STEP }}."
           else
-            echo "Step 4 has already been completed. Current step is ${{ env.CURRENT_STEP }}."
+            echo "Tutorial has already been completed. Current step is ${{ env.CURRENT_STEP }}."
           fi

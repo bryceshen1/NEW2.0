@@ -2,7 +2,7 @@ name: Complete Step 2
 
 on:
   workflow_dispatch:
-    description: 'Run this after completing Step 2 (Adding Custom Fields)'
+    description: 'Run this after completing Step 2 (Adding Custom Views)'
 
 jobs:
   update:
@@ -23,6 +23,9 @@ jobs:
         if: ${{ env.CURRENT_STEP == '2' }}
         run: |
           cp steps/step3.md README.md
+          
+          # Fix the step marker in step3.md
+          sed -i 's/<!-- STEP: 2 -->/<!-- STEP: 3 -->/' README.md
           
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"

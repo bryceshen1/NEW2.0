@@ -2,30 +2,25 @@
 
 Welcome to this interactive tutorial on customizing GitHub Projects for design workflows! This repository will guide you through creating and customizing a design project board using GitHub Projects V2.
 
-## Step 3: Add Design-Specific Custom Fields
-Now, let's make your design project more powerful by adding custom fields specifically helpful for design workflows.
+## Step 4: Create Insights and Reports
+The final step is to set up insights and reports to visualize and track your design progress.
 
-### 📋 Task: Add Custom Fields to Your Design Project
+### 📋 Task: Create Project Insights
 1. Navigate to your "Design Workflow" project
-2. Go to your "Table" view (or any view)
-3. Click the "+" button in the top right corner of the view
-4. Select "New field"
-5. Create the following fields:
-   - "Design Stage" as a "Single select" with options: Concept, Wireframe, Mockup, Prototype, Final
-   - "Design Type" as a "Single select" with options: UI, UX, Graphic, Illustration, Brand
-   - "Feedback Round" as a "Number" field
-   - "Stakeholders" as a "Text" field
-   - "Due Date" as a "Date" field
+2. Click on the "Insights" tab
+3. Click "New chart"
+4. Create the following charts:
+   - A bar chart showing the count of items by "Design Stage"
+   - A chart showing the distribution of items by "Design Type"
+   - A chart tracking progress over time (items moving through your workflow)
+5. Save each chart
+6. Arrange your charts on the dashboard
 
-6. Create a new filter in your Table view:
-   - Click the "Filter" button in the top right
-   - Create a filter to show only items where "Design Stage" is "Mockup" or "Prototype"
+Once completed, go to the **Actions** tab and run the "Complete Step 4" workflow to finish the tutorial.
 
-Once completed, go to the **Actions** tab and run the "Complete Step 3" workflow to proceed to the next step.
+### 📚 The Value of Design Progress Insights
+Insights and charts help design teams visualize their workload, track progress, and identify bottlenecks. They make it easier to report on design work to stakeholders and provide data to inform planning and resourcing decisions. Regular reporting helps design teams demonstrate their impact and value to the broader organization.
 
-### 📚 Custom Fields for Design Work
-Custom fields allow you to track information specific to design workflows. The fields we're adding help track what stage a design is in, what type of design it is, how many feedback rounds it has gone through, who the stakeholders are, and when it's due. These fields make it easier to sort, filter, and organize your design tasks effectively.
+### ⏳ Waiting for you to create project insights...
 
-### ⏳ Waiting for you to add design-specific custom fields...
-
-<!-- STEP: 3 -->
+<!-- STEP: 4 -->

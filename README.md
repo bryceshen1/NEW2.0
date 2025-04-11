@@ -2,25 +2,27 @@
 
 Welcome to this interactive tutorial on customizing GitHub Projects for design workflows! This repository will guide you through creating and customizing a design project board using GitHub Projects V2.
 
-## Step 4: Create Insights and Reports
-The final step is to set up insights and reports to visualize and track your design progress.
+## 🎉 Congratulations!
 
-### 📋 Task: Create Project Insights
-1. Navigate to your "Design Workflow" project
-2. Click on the "Insights" tab
-3. Click "New chart"
-4. Create the following charts:
-   - A bar chart showing the count of items by "Design Stage"
-   - A chart showing the distribution of items by "Design Type"
-   - A chart tracking progress over time (items moving through your workflow)
-5. Save each chart
-6. Arrange your charts on the dashboard
+You've completed this advanced tutorial on customizing GitHub Projects for design workflows! You now know how to:
 
-Once completed, go to the **Actions** tab and run the "Complete Step 4" workflow to finish the tutorial.
+- Create specialized views for different aspects of design work
+- Add custom fields to track design-specific information
+- Create insights and reports to track and visualize progress
 
-### 📚 The Value of Design Progress Insights
-Insights and charts help design teams visualize their workload, track progress, and identify bottlenecks. They make it easier to report on design work to stakeholders and provide data to inform planning and resourcing decisions. Regular reporting helps design teams demonstrate their impact and value to the broader organization.
+### Next Steps
 
-### ⏳ Waiting for you to create project insights...
+Take what you've learned and apply it to your real design projects! Here are some ideas:
 
-<!-- STEP: 4 -->
+- Set up automations to streamline your workflow
+- Connect your design project to your team's repositories
+- Create a template from your design project for future use
+- Set up more advanced automations using the GitHub API
+- Share your insights with stakeholders using links or screenshots
+- Iterate on your workflow as you learn what works best for your team
+
+Remember that GitHub Projects is highly customizable, so continue experimenting to find the setup that works best for your specific design workflow.
+
+Happy designing!
+
+<!-- STEP: 5 -->
